@@ -1,0 +1,11 @@
+.not-found-container {
+  padding-top: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-heading {
+  font-family: Roboto;
+}

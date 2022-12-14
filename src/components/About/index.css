@@ -1,0 +1,14 @@
+.about-page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-heading {
+  font-family: Roboto;
+}
+
+.logout-button {
+  font-family: Roboto;
+}
